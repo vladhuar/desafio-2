@@ -1,0 +1,22 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath} 
+
+\title{Ecuaciones}
+\author{Vladimir Huarachi}
+
+\begin{document}
+
+\maketitle
+
+\section*{La ecuación}
+
+\begin{align*}
+    \text{Si} \quad & x + 3 = 5, \\
+    \text{entonces} \quad & (x + 3) + (-3) = 5 + (-3), \\
+    \text{de donde} \quad & x + (3 + (-3)) = 5 - 3 = 2, \\
+    \text{de donde} \quad & x + 0 = 2, \\
+    \text{de donde} \quad & x = 2.
+\end{align*}
+
+\end{document}
